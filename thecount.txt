@@ -1,1 +1,2 @@
 This should be commit 1
+This should be commit 2
